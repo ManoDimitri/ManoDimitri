@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Gabriel Dimitri
-## <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 Hoje eu sou estudante de <strong>Técnico de Informatica.</strong>
 - 🌱 Linguagens: <strong>Python, JavaScript.</strong>
@@ -12,7 +12,7 @@
 <div justify="left" align="left">
   <a href="https://github.com/ManoDimitri/ManoDimitri/">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ManoDimitri&theme=transparent&show_icons=true" />
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoDimitri&hide=html&layout=compact&theme=transparent" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoDimitri&hide=html&layout=compact&theme=transparent" />
   </a>
 </div>
 
