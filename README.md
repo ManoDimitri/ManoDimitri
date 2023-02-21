@@ -7,8 +7,6 @@
 - 📫 Contate-me no email: contato.gabrieldimitri@gmail.com
 - 😄 Pronouns: ele/dele
 
-##
-
 <div justify="left" align="left">
   <a href="https://github.com/ManoDimitri/ManoDimitri/">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ManoDimitri&theme=transparent&show_icons=true" />
